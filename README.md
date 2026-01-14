@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+>>I’m a B.Tech CSE student focused on building depth across systems, development, and applied problem-solving rather than chasing surface-level tools. <br>>>My work spans Python-based automation and analysis, backend development, and cross-platform application development, with experience translating ideas into functional prototypes in competitive and collaborative environments. <br>>>I’m intentionally developing a strong foundation in computer science fundamentals, scalable backend thinking, and system behaviour analysis, while exploring cybersecurity from the ground up with a logs-first and systems-first mindset. <br>>>Parallelly, I’m working toward AI-driven, utility-oriented applications and accessibility-focused solutions, following a long-term learning arc that values clarity, structure, and real-world relevance over quick labels.<br>>>I believe in quiet iteration, disciplined learning, and letting consistent output speak louder than claims.<br><br>I’m looking to collaborate on …<br>>>Hackathon-ready projects (AI / Web / Automation / Accessibility)<br>>>Open-source tools with clear problem statements<br>>>Early-stage product ideas with strong technical depth.<br><br>I’m looking for help with …<br>>>Writing clean, scalable backend architecture<br>>>Open-source contribution best practices<br>>>Improving system design thinking as a student<br><br>⚡ Fun fact:<br>>>I enjoy building tools that actually get used, not just submitted.<br>>>I prefer problem-first coding over framework hopping.
 
-<!--
-**brainylad765/brainylad765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kapish-chauhan-22252731a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiherekush@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brainylad765&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=brainylad765&theme=cobalt&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brainylad765&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
