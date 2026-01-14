@@ -1,15 +1,71 @@
-# 💫 About Me:
->>I’m a B.Tech CSE student focused on building depth across systems, development, and applied problem-solving rather than chasing surface-level tools. <br>>>My work spans Python-based automation and analysis, backend development, and cross-platform application development, with experience translating ideas into functional prototypes in competitive and collaborative environments. <br>>>I’m intentionally developing a strong foundation in computer science fundamentals, scalable backend thinking, and system behaviour analysis, while exploring cybersecurity from the ground up with a logs-first and systems-first mindset. <br>>>Parallelly, I’m working toward AI-driven, utility-oriented applications and accessibility-focused solutions, following a long-term learning arc that values clarity, structure, and real-world relevance over quick labels.<br>>>I believe in quiet iteration, disciplined learning, and letting consistent output speak louder than claims.<br><br>I’m looking to collaborate on …<br>>>Hackathon-ready projects (AI / Web / Automation / Accessibility)<br>>>Open-source tools with clear problem statements<br>>>Early-stage product ideas with strong technical depth.<br><br>I’m looking for help with …<br>>>Writing clean, scalable backend architecture<br>>>Open-source contribution best practices<br>>>Improving system design thinking as a student<br><br>⚡ Fun fact:<br>>>I enjoy building tools that actually get used, not just submitted.<br>>>I prefer problem-first coding over framework hopping.
+# 👨🏻‍💻 About Me
 
+I’m a B.Tech CSE student building **depth before labels** — focused on systems, clean engineering, and applied problem-solving rather than surface-level tooling.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kapish-chauhan-22252731a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiherekush@gmail.com) 
+My work lives at the intersection of **Python-based automation, backend development, and cross-platform applications**, where ideas are pushed into usable prototypes through hackathons, team builds, and independent experimentation. I care about how systems behave under real constraints — not just how fast something can be demoed.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brainylad765&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=brainylad765&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brainylad765&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I’m deliberately strengthening my **computer science fundamentals**, scalable backend thinking, and system-level reasoning, while exploring **cybersecurity from the ground up** as a junior learner — starting with logs, system behavior, and failure patterns before jumping to buzzwords.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Parallel to this, I’m building toward **AI-driven, utility-first and accessibility-oriented products**, following a long learning arc that values structure, clarity, and long-term relevance over quick titles.
+
+I believe in quiet iteration, disciplined learning, and letting **consistent output speak louder than claims**.
+
+---
+
+## 🤝 Open To Collaborate On
+- Hackathon-ready projects (AI / Web / Automation / Accessibility)
+- Open-source tools with clear, real-world problem statements
+- Early-stage product ideas with strong technical depth
+
+## 🧠 Currently Improving
+- Writing clean, scalable backend architecture
+- Open-source contribution workflows & best practices
+- System design thinking from a student-to-engineer perspective
+
+⚡ **Fun fact:**  
+I enjoy building tools that actually get used, not just submitted.  
+Problem-first coding > framework hopping.
+
+---
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapish-chauhan-22252731a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hiherekush@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Core**
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+**Frameworks & Platforms**
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Data, Cloud & Infra**
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+
+**Tools & Systems**
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=flat&logo=nvidia&logoColor=green)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=brainylad765&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=brainylad765&theme=cobalt&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brainylad765&theme=cobalt&hide_border=true&layout=compact)
