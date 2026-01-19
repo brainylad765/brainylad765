@@ -63,9 +63,3 @@ Problem-first coding > framework hopping.
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
 
 ---
-
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=brainylad765&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=brainylad765&theme=cobalt&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brainylad765&theme=cobalt&hide_border=true&layout=compact)
